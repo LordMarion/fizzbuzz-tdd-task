@@ -1,3 +1,4 @@
+const fizzBuzz = require("./fizzbuzz");
 
 describe("FizzBuzz", () => {
     //Test, czy zwraca "Fizz", jeśli liczba jest podzielna przez 3
